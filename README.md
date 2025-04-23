@@ -1,3 +1,1 @@
-# test-mcp-server
-
-Test repository for MCP server
+这里是测试mcp服务器项目的readme。
